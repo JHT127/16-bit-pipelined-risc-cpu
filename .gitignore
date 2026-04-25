@@ -1,0 +1,30 @@
+# Simulation outputs
+sim/*.vcd
+sim/*.vvp
+sim/cpu_sim
+sim/*.lxt
+
+# Waveform databases (binary)
+*.asdb
+*.wdb
+
+# Vivado / Quartus project files
+*.xpr
+*.qpf
+*.qsf
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Modelsim
+work/
+transcript
+vsim.wlf
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
