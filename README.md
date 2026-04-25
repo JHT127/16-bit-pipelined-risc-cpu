@@ -217,7 +217,7 @@ CPU (top)
 
 A detailed project report covering the design decisions, ISA encoding, pipeline diagrams, hazard analysis, and simulation results is available at:
 
-📄 [`docs/PipelinedProcesserReport.pdf`](docs/PipelinedProcesserReport.pdf) *(see Releases)*
+📄 [`docs/PipelinedProcesserReport.pdf`]
 
 ---
 
