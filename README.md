@@ -161,7 +161,7 @@ These can be read directly in simulation to compute **CPI** and pipeline efficie
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/16-bit-pipelined-risc-cpu.git
+git clone https://github.com/JHT127/16-bit-pipelined-risc-cpu.git
 cd 16-bit-pipelined-risc-cpu
 
 # Run the simulation script
@@ -221,16 +221,6 @@ A detailed project report covering the design decisions, ISA encoding, pipeline 
 
 ---
 
-## 👥 Contributors
-
-| Name | Role |
-|---|---|
-| **Joud Thaher** | Datapath design, pipeline register implementation |
-| **Labiba Sharia** | Controller unit, hazard & forwarding logic |
-| **Amir Al-Rashayda** | Testbenches, performance monitor, simulation & verification |
-
----
-
 ## 📜 License
 
-This project is submitted as academic coursework. All rights reserved by the authors. Please do not copy or submit as your own work.
+This project is submitted as academic coursework. 
